@@ -2,7 +2,7 @@
 
 A tiny Python package to interact with the WISP game panel API.
 
-# Installation
+### Installation
 
 To install from PIP simply run 
 
