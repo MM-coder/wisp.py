@@ -11,7 +11,7 @@ setuptools.setup(
     description="A tiny Python package to interect with the WISP.gg API.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/MM-coder/wispy",
+    url="https://github.com/MM-coder/wisp.py",
     packages=setuptools.find_packages(),
     keywords = ['wisp', 'api-wrapper', 'api', 'gaming', 'wrapper'],
     classifiers=[
