@@ -1,4 +1,4 @@
-# WISPY by Mauro M.
+# WISP.PY by Mauro M.
 
 A tiny Python package to interect with the WISP game panel API.
 
