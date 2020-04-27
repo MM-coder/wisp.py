@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="wispy",
+    name="wisp.py",
     version="0.1.0",
     author="Mauro M.",
     author_email="hello@maurom.dev",
@@ -12,7 +12,7 @@ setuptools.setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/MM-coder/wispy",
-    packages=["wispy"],
+    packages=setuptools.find_packages(),
     keywords = ['wisp', 'api-wrapper', 'api', 'gaming', 'wrapper'],
     classifiers=[
         "Programming Language :: Python :: 3",
