@@ -2,6 +2,13 @@
 
 A tiny Python package to interact with the WISP game panel API.
 
+# Installation
+
+To install from PIP simply run 
+
+```
+pip install wisp.py
+```
 
 
 ## License
